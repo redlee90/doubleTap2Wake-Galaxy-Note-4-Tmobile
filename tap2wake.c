@@ -3,7 +3,8 @@
  *
  *
  * Copyright (c) 2013, Dennis Rassmann <showp1984@gmail.com>
- *           (C) 2014 LoungeKatt <twistedumbrella@gmail.com>	
+ *           (C) 2014 LoungeKatt <twistedumbrella@gmail.com>
+ *	     (c) 2014 redlee90 <redlee90@gmail.com> 	
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
